@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from 'react';
 import { projectsData } from '../data/projects';
 import { FiGithub, FiExternalLink } from 'react-icons/fi';

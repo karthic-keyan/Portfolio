@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaTwitter, FaFileDownload } from 'react-icons/fa';
 import { projectsData } from '../data/projects';
